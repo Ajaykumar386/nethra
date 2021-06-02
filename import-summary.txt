@@ -14,7 +14,6 @@ so manually move them:
 * javadoc\help-doc.html
 * javadoc\index-all.html
 * javadoc\index.html
-* javadoc\mymath.js
 * javadoc\org\
 * javadoc\org\opencv\
 * javadoc\org\opencv\android\
@@ -31,7 +30,6 @@ so manually move them:
 * javadoc\org\opencv\android\CameraRenderer.html
 * javadoc\org\opencv\android\FpsMeter.html
 * javadoc\org\opencv\android\InstallCallbackInterface.html
-* javadoc\org\opencv\android\JavaCamera2View.JavaCameraSizeAccessor.html
 * javadoc\org\opencv\android\JavaCamera2View.html
 * javadoc\org\opencv\android\JavaCameraView.JavaCameraSizeAccessor.html
 * javadoc\org\opencv\android\JavaCameraView.html
@@ -97,7 +95,6 @@ so manually move them:
 * javadoc\org\opencv\dnn\package-tree.html
 * javadoc\org\opencv\features2d\
 * javadoc\org\opencv\features2d\AKAZE.html
-* javadoc\org\opencv\features2d\AffineFeature.html
 * javadoc\org\opencv\features2d\AgastFeatureDetector.html
 * javadoc\org\opencv\features2d\BFMatcher.html
 * javadoc\org\opencv\features2d\BOWImgDescriptorExtractor.html
@@ -114,8 +111,6 @@ so manually move them:
 * javadoc\org\opencv\features2d\MSER.html
 * javadoc\org\opencv\features2d\ORB.html
 * javadoc\org\opencv\features2d\Params.html
-* javadoc\org\opencv\features2d\SIFT.html
-* javadoc\org\opencv\features2d\SimpleBlobDetector.html
 * javadoc\org\opencv\features2d\package-frame.html
 * javadoc\org\opencv\features2d\package-summary.html
 * javadoc\org\opencv\features2d\package-tree.html
@@ -126,9 +121,6 @@ so manually move them:
 * javadoc\org\opencv\imgcodecs\package-tree.html
 * javadoc\org\opencv\imgproc\
 * javadoc\org\opencv\imgproc\CLAHE.html
-* javadoc\org\opencv\imgproc\GeneralizedHough.html
-* javadoc\org\opencv\imgproc\GeneralizedHoughBallard.html
-* javadoc\org\opencv\imgproc\GeneralizedHoughGuil.html
 * javadoc\org\opencv\imgproc\Imgproc.html
 * javadoc\org\opencv\imgproc\LineSegmentDetector.html
 * javadoc\org\opencv\imgproc\Moments.html

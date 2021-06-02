@@ -8,8 +8,6 @@ org/opencv/android/OpenCVLoader.java
  org.opencv.android.OpenCVLoader
 org/opencv/core/MatOfPoint3.java
  org.opencv.core.MatOfPoint3
-org/opencv/features2d/AffineFeature.java
- org.opencv.features2d.AffineFeature
 org/opencv/photo/AlignMTB.java
  org.opencv.photo.AlignMTB
 org/opencv/android/JavaCamera2View.java
@@ -18,7 +16,6 @@ org/opencv/android/JavaCamera2View.java
  org.opencv.android.JavaCamera2View$2
  org.opencv.android.JavaCamera2View$3
  org.opencv.android.JavaCamera2View$JavaCamera2Frame
- org.opencv.android.JavaCamera2View$JavaCameraSizeAccessor
 org/opencv/core/MatOfByte.java
  org.opencv.core.MatOfByte
 org/opencv/features2d/MSER.java
@@ -39,8 +36,6 @@ org/opencv/core/Rect2d.java
  org.opencv.core.Rect2d
 org/opencv/core/MatOfKeyPoint.java
  org.opencv.core.MatOfKeyPoint
-org/opencv/imgproc/GeneralizedHough.java
- org.opencv.imgproc.GeneralizedHough
 org/opencv/calib3d/StereoBM.java
  org.opencv.calib3d.StereoBM
 org/opencv/video/KalmanFilter.java
@@ -114,8 +109,6 @@ org/opencv/imgcodecs/Imgcodecs.java
  org.opencv.imgcodecs.Imgcodecs
 org/opencv/core/MatOfRect2d.java
  org.opencv.core.MatOfRect2d
-org/opencv/features2d/SimpleBlobDetector.java
- org.opencv.features2d.SimpleBlobDetector
 org/opencv/video/BackgroundSubtractor.java
  org.opencv.video.BackgroundSubtractor
 org/opencv/android/LoaderCallbackInterface.java
@@ -132,8 +125,6 @@ org/opencv/ml/Ml.java
  org.opencv.ml.Ml
 org/opencv/core/MatOfRect.java
  org.opencv.core.MatOfRect
-org/opencv/imgproc/GeneralizedHoughBallard.java
- org.opencv.imgproc.GeneralizedHoughBallard
 org/opencv/core/MatOfInt4.java
  org.opencv.core.MatOfInt4
 org/opencv/photo/CalibrateDebevec.java
@@ -182,8 +173,6 @@ org/opencv/photo/MergeRobertson.java
  org.opencv.photo.MergeRobertson
 org/opencv/core/MatOfRotatedRect.java
  org.opencv.core.MatOfRotatedRect
-org/opencv/features2d/SIFT.java
- org.opencv.features2d.SIFT
 org/opencv/video/DenseOpticalFlow.java
  org.opencv.video.DenseOpticalFlow
 org/opencv/android/Utils.java
@@ -219,8 +208,6 @@ org/opencv/android/BaseLoaderCallback.java
  org.opencv.android.BaseLoaderCallback$7
 org/opencv/features2d/BFMatcher.java
  org.opencv.features2d.BFMatcher
-org/opencv/imgproc/GeneralizedHoughGuil.java
- org.opencv.imgproc.GeneralizedHoughGuil
 org/opencv/imgproc/CLAHE.java
  org.opencv.imgproc.CLAHE
 org/opencv/imgproc/LineSegmentDetector.java
